@@ -7,3 +7,7 @@ regional-s3-assets/
 open-source/
 source/test/coverage-reports/jest/*
 .DS_Store
+
+
+# Kiro IDE
+.kiro/
